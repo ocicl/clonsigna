@@ -1,0 +1,10 @@
+* clonsigna
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/clonsigna/clonsigna.git   |
+| commit  |   |
+| systems | clonsigna |
+|---------+-------------------------------------------|
+
