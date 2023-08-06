@@ -2,9 +2,8 @@
 
 
 
-0a6e693---------+-------------------------------------------|
-0a6e693 source  | git:https://gitlab.common-lisp.net/clonsigna/clonsigna.git   |
-0a6e693 commit  |   |
-0a6e693 systems | clonsigna |
-0a6e693---------+-------------------------------------------|
-
+|---------+------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/clonsigna/clonsigna.git |
+| commit  | 0a6e693                                                    |
+| systems | clonsigna                                                  |
+|---------+------------------------------------------------------------|
